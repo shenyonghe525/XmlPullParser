@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<smss>
+	<sms id="0">
+		<body>短信内容0</body>
+		<type>2</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+	<sms id="1">
+		<body>短信内容1</body>
+		<type>1</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+	<sms id="2">
+		<body>短信内容2</body>
+		<type>2</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+	<sms id="3">
+		<body>短信内容3</body>
+		<type>2</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+	<sms id="4">
+		<body>短信内容4</body>
+		<type>2</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+	<sms id="5">
+		<body>短信内容5</body>
+		<type>2</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+	<sms id="6">
+		<body>短信内容6</body>
+		<type>1</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+	<sms id="7">
+		<body>短信内容7</body>
+		<type>2</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+	<sms id="8">
+		<body>短信内容8</body>
+		<type>1</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+	<sms id="9">
+		<body>短信内容9</body>
+		<type>2</type>
+		<data>1412513706853</data>
+		<adress>13454311662</adress>
+	</sms>
+</smss>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XmlPullParser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="xml_pullparser">xml解析</string>
+    <string name="tv_show">解析的数据信息：</string>
+
+</resources>
